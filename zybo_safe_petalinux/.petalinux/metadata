@@ -1,0 +1,6 @@
+PETALINUX_VER=2020.2
+VALIDATE_HW_CHKSUM=1
+HARDWARE_PATH=/home/orphee/Documents/recherche/scalp/zybo_firmware/designs/vivado/zybo_safe_firmware/2020.2/lin64/zybo_safe_firmware/zybo_safe_firmware.xsa
+HARDWARE_CHECKSUM=21fb6af01d7f5ab83f0103c41011e72e
+YOCTO_SDK=5ff8fc5f85d1566b314bb73eaa378212
+RFSCONFIG_CHKSUM=b3f831c0f535aac62880381dcd202b88
